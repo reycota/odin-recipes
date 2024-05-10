@@ -1,0 +1,17 @@
+/*This portion is styling the main index.html file for the odin project recipes*/
+
+#main-page-title {
+    text-align: center;
+    color: darkblue;
+    font-size: 100px;
+}
+
+.links-to-recipes{
+    text-align: center;
+    list-style-position: inside;
+    font-size: 50px;
+}
+
+.main-html{
+    background-color: lightgray;
+}
