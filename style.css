@@ -2,7 +2,6 @@
 
 #main-page-title {
     text-align: center;
-    color: darkblue;
     font-size: 100px;
 }
 
@@ -13,5 +12,21 @@
 }
 
 .main-html{
-    background-color: lightgray;
+    background-color: beige;
+    color: black;
+}
+
+#main-html-egg-img{
+    width: 200px;
+    height: 200px;
+}
+
+#main-html-kefir-img{
+    width: 200px;
+    height: 200px;
+}
+
+#main-html-labneh-img{
+    width: 200px;
+    height: 200px;
 }
