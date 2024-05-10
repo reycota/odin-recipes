@@ -1,9 +1,5 @@
 /*This portion is styling the main index.html file for the odin project recipes*/
 
-#main-page-title {
-    text-align: center;
-    font-size: 100px;
-}
 
 .links-to-recipes{
     text-align: center;
@@ -11,22 +7,35 @@
     font-size: 50px;
 }
 
-.main-html{
+body{
     background-color: beige;
     color: black;
 }
 
-#main-html-egg-img{
+.main-images{
     width: 200px;
     height: 200px;
 }
 
-#main-html-kefir-img{
-    width: 200px;
-    height: 200px;
+/* This portion is styling the recipe html files*/
+.container{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
 }
 
-#main-html-labneh-img{
-    width: 200px;
-    height: 200px;
+h1{
+    text-align: center;
+    font-size: 100px;
 }
+h2{
+    font-size: 50px;
+}
+
+.images{
+    text-align: center;
+}
+.content{
+    font-size: 26px;
+}
+
